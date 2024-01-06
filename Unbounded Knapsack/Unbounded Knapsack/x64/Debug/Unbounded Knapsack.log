@@ -1,0 +1,3 @@
+﻿  Unbounded Knapsack.cpp
+C:\Projects\Proje\Unbounded Knapsack\Unbounded Knapsack\Unbounded Knapsack.cpp(25,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Unbounded Knapsack.vcxproj -> C:\Projects\Proje\Unbounded Knapsack\x64\Debug\Unbounded Knapsack.exe
